@@ -14,6 +14,6 @@ This project is only for **educational purposes** only.
 ## Description
 
 ## ScreenShots
-![server.png](https://github.com/Spadille1337/POST-700R/blob/master/img/Server.png)
+![server.png](https://github.com/Spadille1337/POST-700R/master/img/Server.png)
 
 ## How to Use?
